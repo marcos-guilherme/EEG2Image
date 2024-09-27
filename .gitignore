@@ -1,0 +1,5 @@
+img2brain/
+__pycache__/
+imgs/
+data/
+eeg_img_dataset.pkl
